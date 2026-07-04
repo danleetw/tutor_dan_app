@@ -78,10 +78,11 @@
 
 ## 📸 畫面截圖
 
-| 練習頁 | 成果頁總覽 | 個人紀錄與弱點分析 |
-|---|---|---|
-| ![練習頁](screenshots/01_training_answer.png) | ![成果頁](screenshots/02_progress_overview.png) | ![個人紀錄](screenshots/03_progress_achievements_bests.png) |
+| 練習頁 | 成果頁總覽 | 個人紀錄與弱點分析 | 記憶小幫手（AI 學習卡）|
+|---|---|---|---|
+| ![練習頁](screenshots/01_training_answer.png) | ![成果頁](screenshots/02_progress_overview.png) | ![個人紀錄](screenshots/03_progress_achievements_bests.png) | ![記憶小幫手](screenshots/04_tips_ai_card.png) |
 
 - **練習頁**：填空題型、GEPT/TOEIC/IELTS 等級標註、中文提示、「記憶小幫手」入口
 - **成果頁總覽**：平均熟悉度、已學詞數、累計練習、學習天數、連續學習天數、學習回顧表格
 - **個人紀錄與弱點分析**：成就徽章牆、個人最佳紀錄、答錯最多的弱點單字列表
+- **記憶小幫手**：針對單字即時生成的 AI 學習卡，含中文意思、發音拆解、拆字記憶等，可按讚／倒讚回饋內容品質
