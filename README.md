@@ -2,13 +2,13 @@
 
 專為 GEPT 全民英檢設計的 Android 字彙練習 App。採「計時制」練習搭配 FSRS 記憶排程演算法，依每個單字的熟悉程度智慧安排複習時機，並用 AI 生成的單字學習卡輔助記憶。
 
-> 本 repo 專門存放可安裝的 APK 檔案與功能說明，方便直接下載安裝測試。原始碼另外維護。
+> 本 repo 專門存放功能說明與畫面截圖，方便快速了解這款 App。原始碼另外維護。
 
 ---
 
 ## 📥 下載安裝
 
-暫無下載，敬請期待。
+**[前往 Google Play 商店下載](https://play.google.com/store/apps/details?id=com.bv6lc.tutordan.words&pcampaignid=web_share)**
 
 ---
 
